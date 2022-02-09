@@ -2,9 +2,6 @@
 A project which came into action after coming across an interesting problem statement given by Wells Fargo. This is a classfication of data by detecting the fraudulency in the transactions of customers of Wells Fargo.
 - **Data**:
 Conditional GAN (“CTGAN”) was used to generate the synthetic dataset for this project. CTGAN is a neural network model that helps to detect the distributions for the dataset and tries to generate data records with similar distribution compared with the original datasets. It can deal with both continuous and categorical features.
-- **Collaborators:**
-  - Rahul Mullaguru (@rahulrenegade)
-  - Rahul Narang (@rahulnarang45)
 - **Problem Statement:**
 Banks are required to report suspected vulnerable (elder and dependent
 adult) financial exploitation. Today, much of this activity is limited to human interaction (bankers working with customers on the phone or in person), through which bankers may pick up queues, or red flags or customers self-reporting scams or financial abuse to their financial institution. Digital payments have a
@@ -14,3 +11,6 @@ degree of reported fraud and claims, with the assumption that much more unreport
   - maximizes the F1 score,
   - includes suitable encoding schemes, and
   - has the least set of feature variables.
+- **Collaborators:**
+  - Rahul Mullaguru (@rahulrenegade)
+  - Rahul Narang (@rahulnarang45)
